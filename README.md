@@ -47,7 +47,8 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 
 
 ## Live URL / deployed link
-
+https://one4mvc-techblog.onrender.com
+https://github.com/CrystalC19/14MVC-TechBlog.git
 
 ## Screen Recording
 
